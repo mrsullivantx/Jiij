@@ -1,0 +1,5 @@
+<title> change from Website to Horiseon.
+<h1> "Seo" were a different color. Removed the <span>, .Seo Class and Removed the unneeded section of the css file.
+<background-colors> Were all different shades of blue. I though the .header blue looked the best so replaced the others with #2a607c.
+class "online reputation management" and "social media marketing" had a class and id. Removed the id.
+class :benefit lead" and "benefit brand" were missing a ></img> at the end of the img link.
